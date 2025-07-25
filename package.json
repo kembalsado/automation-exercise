@@ -1,0 +1,18 @@
+{
+  "name": "automation-exercise",
+  "version": "1.0.0",
+  "description": "An automation exercise project using Playwright and TypeScript",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.9.0"
+  }
+}
